@@ -1,6 +1,6 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "Angel the guardian",
+    "name": "Angel",
     "version": "6.0.6",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Landing page for the EIP 'Angel'.",
     "keywords": [
         "css",
         "sass",
@@ -27,14 +27,10 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Théo Paramelle",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "Théo Paramelle"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-new-age.git"
-    },
     "dependencies": {
         "bootstrap": "5.1.3"
     },
